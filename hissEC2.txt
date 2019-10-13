@@ -1,0 +1,54 @@
+    1  ls
+    2  mkdir new
+    3  ls
+    4  cd new
+    5  touch docker.txt
+    6  ls
+    7  git init
+    8  git add .
+    9  git commit -m "first new"
+   10  cd
+   11  ls
+   12  git clone https://github.com/poojauk/new.git
+   13  ls
+   14  rmdir new
+   15  ls
+   16  rm -r new
+   17  sudo rm -r new
+   18  ls
+   19  git clone https://github.com/poojauk/pooja.git
+   20  ls
+   21  cd pooja
+   22  ls
+   23  touch file.sh
+   24  git add file.sh
+   25  git commit -m "frist prog"
+   26  git status
+   27  git push 
+   28  cd
+   29  git clone https://github.com/anjaliwalde/linux.git
+   30  cd 
+   31  ls
+   32  cd linux
+   33  nano myfile.txt
+   34  git add myfile.txt
+   35  git commit -m "hii"
+   36  git status
+   37  git push
+   38  cd/var/log
+   39  cd
+   40  history >>touch hissEC2.txt
+   41  touch hissEC2.txt
+   42  history >>touch hissEC2.txt
+   43  history 
+   44  history >>hissEC2.txt
+   45  git clone https://github.com/anjaliwalde/linux.git
+   46  cd linux
+   47  git init
+   48  git add hissEC2.txt
+   49  ls
+   50  cd
+   51  ls
+   52  cd linux
+   53  touch hissEC2.txt
+   54  history >> hissEC2.txt
